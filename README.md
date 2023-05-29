@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dhruv parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv parmar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhruv-parmar-61b31226b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BMBE0ITPjRQ%2BfLxIIjD9mgA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv parmar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
