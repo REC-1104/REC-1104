@@ -1,6 +1,6 @@
 ![Readmeimg](https://github.com/REC-1104/REC-1104/assets/127714898/65e9a4af-a1c9-4e70-b2ef-3088e215993b)
 <h1 align="center">Hi 👋, I'm Dhruv Parmar</h1>
-<h3 align="center">A passionate frontend developer and Data science enthusiast from India</h3>
+<h3 align="center">A passionate Frontend Developer and Data Science enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rec-1104&label=Profile%20views&color=0e75b6&style=flat" alt="rec-1104" /> </p>
 
