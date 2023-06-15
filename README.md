@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rec-1104&label=Profile%20views&color=0e75b6&style=flat" alt="rec-1104" /> </p>
 
+<img width=400 height=300 align="right" src="https://i.pinimg.com/originals/0e/f6/f0/0ef6f0f6b459005d9e07aacafa78e140.gif" alt="dev" />
+
 - 🌱 I’m currently learning *Data Science and ML*
 
 - 👨‍💻 All of my projects are available at [https://rec-1104.github.io/Portfolio/](https://rec-1104.github.io/Portfolio/)
@@ -26,8 +28,6 @@
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rec-1104&theme=dark&show_icons=true&locale=en" alt="rec-1104" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rec-1104&theme=dark" alt="rec-1104" /></p>
-
-![giphy](https://github.com/Pin4sf/REC-1104/assets/83578233/820d9b91-d097-468b-8ed5-eff68752af9e)
 
 <!---
 REC-1104/REC-1104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
