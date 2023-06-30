@@ -15,8 +15,6 @@
 
 - ⚡ Fun fact *I'm a huge anime fan.*
 
-<hr>
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -27,7 +25,7 @@
 
 <h3>Spotify:</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zev2msy5uszz3s7asu6h6bjrbq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zev2msy5uszz3s7asu6h6bjrbq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <hr>
 
@@ -40,6 +38,13 @@
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rec-1104&theme=dark&show_icons=true&locale=en" alt="rec-1104" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rec-1104&theme=dark" alt="rec-1104" /></p>
+
+<hr>
+
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+![github-contribution-grid-snake](https://github.com/REC-1104/REC-1104/assets/127714898/5a68379e-242d-4ce4-bfd7-d8ffdf51be9f)
 
 <!---
 REC-1104/REC-1104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
