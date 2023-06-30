@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rec-1104&label=Profile%20views&color=0e75b6&style=flat" alt="rec-1104" /> </p>
 
-<img width=400 height=300 align="right" src="https://i.pinimg.com/originals/0e/f6/f0/0ef6f0f6b459005d9e07aacafa78e140.gif" alt="dev" />
+<img width=250 height=200 align="right" src="https://i.pinimg.com/originals/0e/f6/f0/0ef6f0f6b459005d9e07aacafa78e140.gif" alt="dev" />
 
 - 🌱 I’m currently learning *Data Science and ML*
 
@@ -22,8 +22,6 @@
 </p>
 
 <hr>
-
-<h3>Spotify:</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zev2msy5uszz3s7asu6h6bjrbq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
