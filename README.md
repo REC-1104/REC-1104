@@ -1,52 +1,78 @@
-![Readmeimg](https://github.com/REC-1104/REC-1104/assets/127714898/65e9a4af-a1c9-4e70-b2ef-3088e215993b)
-<h1 align="center">Hi 👋, I'm Dhruv Parmar</h1>
-<h3 align="center">A passionate Frontend Developer and Data Science enthusiast from India</h3>
+# <div align="center">👨‍💻 DHRUV PARMAR</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rec-1104&label=Profile%20views&color=0e75b6&style=flat" alt="rec-1104" /> </p>
+<div align="center">
+    <img src="https://github.com/REC-1104/REC-1104/assets/127714898/65e9a4af-a1c9-4e70-b2ef-3088e215993b" alt="Banner" width="500">
+</div>
 
-<img width=250 height=200 align="right" src="https://i.pinimg.com/originals/0e/f6/f0/0ef6f0f6b459005d9e07aacafa78e140.gif" alt="dev" />
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&random=false&width=435&lines=Core+member+of+TPC+@+IIITDMJ;AI%2FML+Enthusiast;Full+Stack+Web+Developer;Research+Intern+@+TCS" alt="Typing SVG" />
+</div>
 
-- 🌱 I’m currently learning *Data Science and ML*
+<div align="center">
+    <a href="https://www.linkedin.com/in/dhruv-parmar-61b31226b/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://rec-1104.github.io/Portfolio/](https://rec-1104.github.io/Portfolio/)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> About Me
 
-- 💬 Ask me about *Frontend and Data analysis*             
-- 📫 How to reach me *22bec084@iiitdmj.ac.in*
+```python
+class PassionateDeveloper:
 
-- ⚡ Fun fact *I'm a huge anime fan.*
+    def __init__(self):
+        self.name = "Dhruv Parmar"
+        self.education = "IIITDMJ" 
+        self.role = "Core member of TPC @ IIITDMJ"
+        self.interests = ["Agentic AI", "Langgraph", "Multi-Agent Systems"]
+        self.portfolio = "https://rec-1104.github.io/Portfolio/"
+        self.expertise = ["LLM Based Systems", "GenAI", "RAG", "MERN Stack"]
+        self.email = "dhruvparmar110404@gmail.com"
+        
+    def say_hi(self):
+        print("I love to watch anime and listen to classical music!")
 
-<h3 align="left">Connect with me:</h3>
+me = PassionateDeveloper()
+me.say_hi()
+```
 
-<p align="left">
-<a href="https://www.linkedin.com/in/dhruv-parmar-61b31226b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BMBE0ITPjRQ%2BfLxIIjD9mgA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv parmar" height="30" width="40" /></a>
-</p>
+## 💻 Tech Stack
 
-###
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-8A2BE2?style=for-the-badge&logo=graph&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-<h3 align="left">Recently Played:</h3>
+## 📊 GitHub Stats
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zev2msy5uszz3s7asu6h6bjrbq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rec-1104&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="Top Languages" height="175px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rec-1104&theme=radical&show_icons=true&hide_border=true&locale=en" alt="GitHub Stats" height="175px" />
+</div>
 
-###
+## 🐍 Contribution Graph
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /> </a> <a href="https://tailwindcss.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="Tailwind_CSS_logo"  /> </a> </p>
+<div align="center">
+    <img src="https://github.com/REC-1104/REC-1104/assets/127714898/5a68379e-242d-4ce4-bfd7-d8ffdf51be9f" alt="snake eating contribution" width="800px" />
+</div>
 
-###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rec-1104&show_icons=true&theme=dark&locale=en&layout=compact" alt="rec-1104" /></p>
- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rec-1104&theme=dark&show_icons=true&locale=en" alt="rec-1104" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rec-1104&theme=dark" alt="rec-1104" /></p>
-
-###
-
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-
-![github-contribution-grid-snake](https://github.com/REC-1104/REC-1104/assets/127714898/5a68379e-242d-4ce4-bfd7-d8ffdf51be9f)
-
-<!---
-REC-1104/REC-1104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
