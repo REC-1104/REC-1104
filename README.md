@@ -22,7 +22,7 @@ class PassionateDeveloper:
     def __init__(self):
         self.name = "Dhruv Parmar"
         self.education = "IIITDMJ" 
-        self.role = "Core member of TPC @ IIITDMJ"
+        self.roles = ["Core member of TPC @ IIITDMJ", "Research Intern @ TCS"]
         self.interests = ["Agentic AI", "Langgraph", "Multi-Agent Systems"]
         self.portfolio = "https://rec-1104.github.io/Portfolio/"
         self.expertise = ["LLM Based Systems", "GenAI", "RAG", "MERN Stack"]
